@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yuji009/javascript-developers/issues"
   },
-  "homepage": "https://github.com/yuji009/javascript-developers#readme"
+  "homepage": "https://github.com/yuji009/javascript-developers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
